@@ -1,0 +1,5 @@
+ installation of jquery3-api on behalf of admin
+11-Mar-2023 14:44:03.485 INFO [Update center installer thread [#2]] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading jquery3-api
+11-Mar-2023 14:44:06.405 INFO [Update center installer thread [#2]] hudson.model.UpdateCenter$DownloadJob.run Installation successful: jquery3-api
+11-Mar-2023 14:44:06.405 INFO [Update center installer thread [#2]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of echarts-api on behalf of admin
+11-Mar-2023 14:44:06.405 INFO [Update center installer thread [#2]] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading echarts-api
